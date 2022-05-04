@@ -1,4 +1,4 @@
 # G_HTML-CSS
 
-# By: Suhr
+# De: Henrique
 # Versão html e css do projeto que está sendo desenvolvido em java
